@@ -57,9 +57,9 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 | 3 | Alta | Como analista de segurança viária, quero identificar os estados com maior taxa de letalidade em sinistros envolvendo veículos pesados, para priorizar intervenções em regiões críticas.  | 1 | 6 |
 
 ## Sprint 2 
-- [] Analisar evolução dos indicadores de segurança viária (2015–2025);
-- [] Calcular taxa de sinistros por 10 mil veículos;
-- [] Analisar correlação entre frota de veículos pesados e sinistros fatais;
+- [ ] Analisar evolução dos indicadores de segurança viária (2015–2025);
+- [ ] Calcular taxa de sinistros por 10 mil veículos;
+- [ ] Analisar correlação entre frota de veículos pesados e sinistros fatais;
 
 ## User Story 
 Rank | Prioridade | User Story | Sprint | Estimativa |
