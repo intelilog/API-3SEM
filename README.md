@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrador (API) - 3° Semestre
+# Aprendizagem por Projeto Integrador (API) - 3° Semestre
 
 Projeto baseado na Metodologia SCRUM para análise integrada da segurança viária no Brasil, com uso de dados públicos e indicadores estatísticos, permitindo comparações entre estados e avaliação de riscos envolvendo veículos pesados.
 
