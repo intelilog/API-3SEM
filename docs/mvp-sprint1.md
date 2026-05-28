@@ -1,8 +1,7 @@
 # MVP - Sprint 1
 
 ## 🎯 Objetivo do MVP
-
-Desenvolver a primeira versão funcional do dashboard de análise de segurança viária, permitindo integrar bases públicas de acidentes e visualizar indicadores iniciais relacionados aos veículos pesados.
+Desenvolver um Dashbord voltado à análise da segurança viária, permitindo acompanhar a evolução dos indicadores de sinistros envolvendo veículos pesados, calcular taxas proporcionais à frota e identificar possíveis relações entre o crescimento da frota e o aumento de acidentes fatais, com o objetivo de apoiar decisões estratégicas em políticas públicas e gestão logística.
 
 ---
 
