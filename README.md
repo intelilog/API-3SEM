@@ -61,6 +61,6 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 | Sprint 01 | 24/04/2026 | Concluído | [MVP](https://github.com/intelilog/API-3SEM/blob/main/docs/mvp-sprint1.md) | 
-| Sprint 02 | 29/05/2026 | Concluído | MVP | 
+| Sprint 02 | 29/05/2026 | Concluído | [MVP](https://github.com/intelilog/API-3SEM/blob/main/docs/mvp-sprint2.md) | 
 | Sprint 03 | 12/06/2026 | Em progresso | MVP | 
 | Feira de Soluções | 25/06/2026 | Não iniciado | MVP |
