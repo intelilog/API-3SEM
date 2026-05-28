@@ -64,21 +64,3 @@ Sprint | Previsão | Status| Histórico|
 | Sprint 02 | 29/05/2026 | Concluído | MVP | 
 | Sprint 03 | 12/06/2026 | Em progresso | MVP | 
 | Feira de Soluções | 25/06/2026 | Não iniciado | MVP |
-
-
-## Sprint 1
-- [x] Realizar limpeza, padronização e integração das bases públicas de sinistros de trânsito;
-- [x] Desenvolver visualização da taxa de mortes por 100 mil habitantes por estado;
-- [x] Identificar estados com maior taxa de letalidade em sinistros envolvendo veículos pesados;
-
-
-## Sprint 2 
-- [x] Analisar evolução dos indicadores de segurança viária (2020–2025);
-- [x] Calcular taxa de sinistros por 10 mil veículos;
-- [x] Analisar correlação entre frota de veículos pesados e sinistros fatais;
-
-## Sprint 3 
-* Analisar variações regionais nos sinistros envolvendo veículos pesados;
-* Desenvolver ranking de eficiência em segurança viária para municípios;
-* Comparar indicadores estaduais com a média nacional;
-
