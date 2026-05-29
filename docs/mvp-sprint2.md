@@ -1,4 +1,4 @@
-# <h1 align="center"> 📌 MVP - [Sprint 02]
+# <h1 align="center"> 📌 MVP - Sprint 02
 
 ## 🎯 Objetivo do MVP
 Desenvolver um Dashbord voltado à análise da segurança viária, permitindo acompanhar a evolução dos indicadores de sinistros envolvendo veículos pesados, calcular taxas proporcionais à frota e identificar possíveis relações entre o crescimento da frota e o aumento de acidentes fatais, com o objetivo de apoiar decisões estratégicas em políticas públicas e gestão logística.
