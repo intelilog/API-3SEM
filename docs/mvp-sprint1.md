@@ -39,7 +39,7 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 ---
 
 ## 📈 Métricas de Validação
-- Três usuários testaram o MVP e conseguiram acessar os indicadores apresentados no dashboard.
+- Usuários testaram o MVP e conseguiram acessar os indicadores apresentados no dashboard.
 - O feedback obtido foi positivo, com sugestões de melhorias relacionadas à visualização dos filtros e organização do Dashboard.
 
 ---
@@ -50,5 +50,5 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 ---
 
 ## 📂 Anexos / Evidências
-
+🎥 [Vídeo do dashboard e sua funcionalidade](https://youtu.be/ASKufVJc63Y?si=shiJx_OIxWjjPfig)
 
