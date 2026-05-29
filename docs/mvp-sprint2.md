@@ -56,8 +56,12 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 ## 📂 Anexos / Evidências
 
 <img width="1372" height="766" alt="image" src="https://github.com/user-attachments/assets/c61e9ccc-86df-4834-a5f3-0ef88bf7b9e9" />
+
 <img width="1377" height="765" alt="image" src="https://github.com/user-attachments/assets/5a2b5ba8-5295-4446-b008-a517275adc98" />
+
 <img width="1372" height="775" alt="image" src="https://github.com/user-attachments/assets/9d9cb604-5473-4216-8feb-f77d69afc015" />
+
 <img width="1368" height="765" alt="image" src="https://github.com/user-attachments/assets/559b890e-f59f-441f-b4ee-66faf29b9cd7" />
+
 <img width="1371" height="769" alt="image" src="https://github.com/user-attachments/assets/5b16deae-a82c-4b70-a86b-8f70452b1ded" />
 
