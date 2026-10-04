@@ -1,6 +1,6 @@
-# Aprendizagem por Projeto Integrador (API) - 3° Semestre
+# <h1 align="center"> Aprendizado por Projeto Integrador (API) - 3° Semestre
 
-Projeto baseado na Metodologia SCRUM para análise integrada da segurança viária no Brasil, com uso de dados públicos e indicadores estatísticos, permitindo comparações entre estados e avaliação de riscos envolvendo veículos pesados.
+O Aprendizado por Projeto Integrador (API) é uma abordagem de ensino voltada ao desenvolvimento de projetos práticos, promovendo a aplicação integrada dos conhecimentos acadêmicos na solução de problemas reais. A metodologia incentiva o trabalho em equipe, a análise de dados e o desenvolvimento de soluções de forma colaborativa e organizada.
 
 # Índice
 * [Projeto](#projeto)
@@ -10,7 +10,8 @@ Projeto baseado na Metodologia SCRUM para análise integrada da segurança viár
 * [MVP - Sprints](#registro-das-sprints)
 
 # Projeto
-Análise integrada de segurança viária no Brasil com foco em veículos pesados, utilizando dados públicos para geração de indicadores, comparações regionais e avaliação de riscos.
+
+Projeto desenvolvido com base na metodologia SCRUM para análise integrada da segurança viária no Brasil, utilizando dados públicos e indicadores estatísticos para analisar sinistros de trânsito, identificar padrões, comparar indicadores entre estados e avaliar riscos relacionados à circulação de veículos pesados.
 
 
 # Equipe
@@ -33,7 +34,7 @@ Este projeto tem como objetivo desenvolver um dashbord, que permita:
 * Classificar municípios por desempenho: Elaborar um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes.
 
 # Tecnologias Utilizadas 
-* Github
+* Github                                                                                
 * Jira Software
 * PowerBI
 * Phyton
@@ -58,8 +59,9 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
+|-------|--------|------|--------|
 | Sprint 01 | 24/04/2026 | Concluído | [MVP](https://github.com/intelilog/API-3SEM/blob/main/docs/mvp-sprint1.md) | 
 | Sprint 02 | 29/05/2026 | Concluído | [MVP](https://github.com/intelilog/API-3SEM/blob/main/docs/mvp-sprint2.md) | 
 | Sprint 03 | 12/06/2026 | Concluído | [MVP](https://github.com/intelilog/API-3SEM/blob/main/docs/mvp-sprint3.md) | 
-| Feira de Soluções | 25/06/2026 | Não iniciado | MVP | 
+| Feira de Soluções | 25/06/2026 | Concluído | MVP |
+
